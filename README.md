@@ -10,7 +10,7 @@ Hi! I'm Saptarishi. I recently graduated from Simon Business School with an MS i
 
 <a href="https://github.com/saptarishipandey/Non-alcoholic-beer/tree/main" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">**Data driven perceptual mapping**</a>
 
-* Created a perceptual map of 20 competing CPG NA Beer products from internet ratings and reviews using principal component analysis and dimension reduction.
+* Created a perceptual map of 20 competing CPG Non-alcoholic beer products from internet ratings and reviews using principal component analysis and dimension reduction.
 * Wrote a Python program that automated data gathering about 20 competing non alcoholic beer products from internet forums saving market research time significantly.
 
 <a href="https://github.com/saptarishipandey/Project-GMNL-Pricing-Choice-Models" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">**Is my price right? Price optimization and positioning of CPG products using Logistic Regression and Unsupervised Machine Learning**</a>
