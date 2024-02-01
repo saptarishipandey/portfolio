@@ -25,3 +25,28 @@ Hi! I'm Saptarishi. I recently graduated from Simon Business School with an MS i
 
 * Devised a machine learning approach for classifying home equity loan applicants as risky or not risky based on past delinquencies with 78% true positive rate and high interpretability using a logistic regression classifier on Python. <a href="https://github.com/saptarishipandey/Home-Equity-Loan-Classification/blob/main/HELOC%20classifier%20model.html" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">Full report</a>.
 
+<div class="container container-custom" style="margin-top: 90px">
+  {% for post in site.posts limit:3 %}
+    {% if post.category == 'working papers' or post.category == 'publications' %}
+      <div class="post">
+        <a class="post__title" {% if post.pdf-url %}href="{{ post.pdf-url }}" target="_blank"{% endif %}>
+          {{ post.title }}
+        </a>
+        <div class="post__subtitle">
+          {{ post.co-authors }}
+          {% if post.awards.size > 0 %}
+            <ul>
+              {% for award in post.awards %}
+                <li>{{ award }}</li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+        </div>
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
+
+<div class="text-center" style="margin-top: 80px">
+  <a class="btn btn-custom" href="/research.html">ALL RESEARCH ></a>
+</div>
