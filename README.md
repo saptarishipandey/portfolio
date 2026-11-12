@@ -7,9 +7,11 @@ Current expertise includes: Marketing Mix Modeling (MMM), attribution analytics,
 
 In my current role, I've helped optimize my team's reporting effort, cutting down several hours of manual overhead to a few minutes through automation and better data engineering.
 
+Read my data blog <a href="https://dataautodidact.substack.com/" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">**DataAutodidact**</a>.
+
 :)
 
-### Projects
+### Academic Projects - Circa 2022 - 2023
 
 <a href="https://github.com/saptarishipandey/Non-alcoholic-beer/tree/main" style="color: #b5e853; text-decoration: underline;text-decoration-style: dotted;">**Data driven perceptual mapping**</a>
 
