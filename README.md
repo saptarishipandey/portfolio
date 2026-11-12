@@ -2,7 +2,10 @@
 
 ### About me
 
-Hi! I'm Saptarishi. I recently graduated from Simon Business School with an MS in Marketing Analytics. My dream is to get into data science. This website houses some of my projects in this field. I'm interested in machine learning, natural language processing, and computer vision.
+Hi! I'm Saptarishi, I am a marketing scientist based in Chicago, Illinois. I currently work at an ad agency and help measure the effectiveness of marketing and advertising efforts. My interests lie in the field of data engineering, data science in the scope of marketing measurement.
+Current expertise includes: Marketing Mix Modeling (MMM), attribution analytics, geo-lift.
+
+In my current role, I've helped optimize my team's reporting effort, cutting down several hours of manual overhead to a few minutes through automation and better data engineering.
 
 :)
 
